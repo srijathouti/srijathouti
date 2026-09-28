@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Srija Thouti
 
-### 💻 B.Tech Information Technology Student | 🤖 AI/ML Enthusiast | 🌐 Full-Stack Developer
+### B.Tech Information Technology Student | AI/ML Enthusiast | Full-Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Building+AI-Powered+Applications+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Turning+Ideas+Into+Projects+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;Building+AI-Powered+Applications;Full-Stack+Developer;Machine+Learning+Enthusiast;Turning+Ideas+Into+Projects" />
 
 <br>
 
@@ -30,41 +30,41 @@
 
 # 🎁 About Me
 
-🎓 I'm a **B.Tech Information Technology student** at **Kakatiya Institute of Technology and Science**, with a CGPA of **8.0/10**.
+I'm a **B.Tech Information Technology student** at **Kakatiya Institute of Technology and Science**, with a CGPA of **8.0/10**.
 
-💻 I enjoy building applications using **Python, Java, SQL, React.js, Node.js and Express.js**.
+I enjoy building applications using **Python, Java, SQL, React.js, Node.js and Express.js**.
 
-🤖 My interests include **Machine Learning, Deep Learning, Artificial Intelligence and Computer Vision**.
+My interests include **Machine Learning, Deep Learning, Artificial Intelligence and Computer Vision**.
 
-📊 I also work with **Data Analysis and Visualization**.
+I also work with **Data Analysis and Visualization**.
 
-🚀 I love turning ideas into practical, real-world applications.
+I love turning ideas into practical, real-world applications.
 
-🎯 I'm currently looking for opportunities in:
+### Areas I'm Interested In
 
-- 💻 Software Development
-- 🌐 Full-Stack Development
-- 📊 Data Analytics
-- 🤖 Machine Learning
-- 🧠 Artificial Intelligence
+- Software Development
+- Full-Stack Development
+- Data Analytics
+- Machine Learning
+- Artificial Intelligence
 
 ---
 
 # 🧰 Tech Stack
 
-### 👩‍💻 Programming Languages
+### Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,c" />
 </p>
 
-### 🌐 Web Development
+### Web Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express" />
 </p>
 
-### 🤖 AI / Machine Learning
+### AI / Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
@@ -74,17 +74,17 @@
 
 `Keras` • `MobileNetV2` • `Scikit-learn` • `Supervised Learning` • `Unsupervised Learning` • `Deep Learning`
 
-### 📊 Data Analysis
+### Data Analysis
 
 `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Power BI` • `Microsoft Excel`
 
-### 🗄️ Databases
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### ⚙️ Tools
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -94,113 +94,92 @@
 
 # 🚀 Featured Projects
 
-## 🌱 AI-Based Crop Disease Detection & Sustainable Fertilizer Management
+## AI-Based Crop Disease Detection & Sustainable Fertilizer Management
 
 **Tech Stack:**
 
 `Python` `TensorFlow/Keras` `MobileNetV2` `OpenCV` `FastAPI` `React.js` `MongoDB`
 
-### ✨ What I Built
+### What I Built
 
-🌿 AI-powered agriculture application for crop disease detection.
-
-🧠 Implemented **MobileNetV2 with TensorFlow/Keras** to classify crop diseases from leaf images.
-
-📸 Used **OpenCV** for image preprocessing.
-
-📊 Generated prediction confidence scores.
-
-🌱 Used crop type and growth stage as inputs for disease prediction.
-
-🧪 Generated crop-specific fertilizer recommendations.
-
-🌐 Developed a web interface using **React.js and CSS**.
-
-⚡ Used **FastAPI** for backend API integration.
-
-🗄️ Used **MongoDB** for data management.
+- Developed an AI-powered agriculture application for crop disease detection.
+- Implemented **MobileNetV2 with TensorFlow/Keras** to classify crop diseases from leaf images.
+- Used **OpenCV** for image preprocessing.
+- Generated prediction confidence scores.
+- Used crop type and growth stage as inputs for disease prediction.
+- Generated crop-specific fertilizer recommendations.
+- Developed a web interface using **React.js and CSS**.
+- Used **FastAPI** for backend API integration.
+- Used **MongoDB** for data management.
 
 ---
 
-## 🗣️ AI Virtual Assistant
+## AI Virtual Assistant
 
 **Tech Stack:**
 
 `Python` `SpeechRecognition` `pyttsx3` `Wikipedia API`
 
-### ✨ Features
+### Features
 
-🎙️ Voice-controlled interaction
-
-🔊 Text-to-speech responses
-
-🌐 Wikipedia API integration
-
-🚀 Application launching
-
-🔎 Web searches
-
-⏰ Time retrieval
-
-🤝 Hands-free interaction
+- Voice-controlled interaction
+- Text-to-speech responses
+- Wikipedia API integration
+- Application launching
+- Web searches
+- Time retrieval
+- Hands-free interaction
 
 ---
 
-## 🤝 MentorMatch — Mentor-Mentee Matching Platform
+## MentorMatch — Mentor-Mentee Matching Platform
 
 **Tech Stack:**
 
 `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Socket.io` `JavaScript`
 
-### ✨ Features
+### Features
 
-👨‍🏫 Mentor and mentee matching
-
-🔐 JWT authentication
-
-👤 Profile management
-
-🔎 Mentor search
-
-📅 Session booking
-
-💬 Real-time communication using Socket.io
-
-📱 Responsive user interface
-
-🗄️ MongoDB database management
+- Mentor and mentee matching
+- JWT authentication
+- Profile management
+- Mentor search
+- Session booking
+- Real-time communication using Socket.io
+- Responsive user interface
+- MongoDB database management
 
 ---
 
 # 💼 Internship Experience
 
-## 🚀 MERN Stack Intern — Blackbucks
+## MERN Stack Intern — Blackbucks
 
 ### 8-Week Offline Internship
 
 During my internship, I worked with the **MERN stack** and gained practical experience in:
 
-- ⚛️ React.js
-- 🟢 Node.js
-- 🚂 Express.js
-- 🍃 MongoDB
-- 🌐 Full-Stack Web Development
-- 🔗 Frontend & Backend Integration
-- 🗄️ Database Management
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Full-Stack Web Development
+- Frontend & Backend Integration
+- Database Management
 
 ---
 
 # 🏆 Achievements
 
-## 🥇 Adobe University Hackathon
+## Adobe University Hackathon
 
-🚀 Advanced through **2 rounds**.
+Advanced through **2 rounds**.
 
-🤖 Developed an **AI-agent-based web crawler** as the submitted solution.
+Developed an **AI-agent-based web crawler** as the submitted solution.
 
 ---
 
-## 🇮🇳 Smart India Hackathon
+## Smart India Hackathon
 
 Participated in a **national-level hackathon**, collaborating with a team to develop a technology-based solution for a real-world problem.
 
@@ -208,16 +187,16 @@ Participated in a **national-level hackathon**, collaborating with a team to dev
 
 # 📜 Certifications
 
-🎓 **Introduction to Cloud Infrastructure**  
+**Introduction to Cloud Infrastructure**  
 Microsoft
 
-📊 **GenAI Powered Data Analytics Job Simulation**  
+**GenAI Powered Data Analytics Job Simulation**  
 TATA
 
-🤖 **Introduction to Machine Learning Concepts**  
+**Introduction to Machine Learning Concepts**  
 Microsoft
 
-🔐 **Introduction to Cybersecurity**  
+**Introduction to Cybersecurity**  
 Cisco Networking Academy
 
 ---
@@ -226,13 +205,13 @@ Cisco Networking Academy
 
 <div align="center">
 
-| 💻 Area | 📚 Knowledge |
+| Area | Knowledge |
 |---|---|
-| 🧩 DSA | Data Structures & Algorithms |
-| 🏗️ OOP | Object-Oriented Programming |
-| 🗄️ DBMS | Database Management Systems |
-| 💻 OS | Operating Systems |
-| 🌐 Networks | Computer Networks |
+| DSA | Data Structures & Algorithms |
+| OOP | Object-Oriented Programming |
+| DBMS | Database Management Systems |
+| OS | Operating Systems |
+| Networks | Computer Networks |
 
 </div>
 
@@ -242,27 +221,17 @@ Cisco Networking Academy
 
 <div align="center">
 
-🤖 Artificial Intelligence
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-🧠 Machine Learning
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-👁️ Computer Vision
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-🌐 Full-Stack Development
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-📊 Data Analytics
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-🚀 Building Real-World Projects
+Artificial Intelligence  
+•  
+Machine Learning  
+•  
+Computer Vision  
+•  
+Full-Stack Development  
+•  
+Data Analytics  
+•  
+Building Real-World Projects
 
 </div>
 
@@ -305,30 +274,30 @@ Cisco Networking Academy
 ```text
 2023
   │
-  ├── 🎓 Started B.Tech in Information Technology
+  ├── Started B.Tech in Information Technology
   │
   ▼
 2024
   │
-  ├── 💻 Strengthened Programming & CS Fundamentals
+  ├── Strengthened Programming & CS Fundamentals
   │
   ▼
 2025
   │
-  ├── 🤖 Explored AI / ML
-  ├── 📊 Data Analytics
-  └── 🌐 Full-Stack Development
+  ├── Explored AI / ML
+  ├── Data Analytics
+  └── Full-Stack Development
   │
   ▼
 2026
   │
-  ├── 🌱 Crop Disease Detection System
-  ├── 🤝 MentorMatch
-  ├── 🗣️ AI Virtual Assistant
-  ├── 🏆 Adobe University Hackathon
-  └── 💼 MERN Stack Internship
+  ├── Crop Disease Detection System
+  ├── MentorMatch
+  ├── AI Virtual Assistant
+  ├── Adobe University Hackathon
+  └── MERN Stack Internship
   │
   ▼
 2027
   │
-  └── 🎓 B.Tech Graduation
+  └── B.Tech Graduation
